@@ -1,0 +1,14 @@
+C:\Users\izzel\kmameh\SharedServices\bin\Debug\netstandard2.1\SharedServices.deps.json
+C:\Users\izzel\kmameh\SharedServices\bin\Debug\netstandard2.1\SharedServices.dll
+C:\Users\izzel\kmameh\SharedServices\bin\Debug\netstandard2.1\SharedServices.pdb
+C:\Users\izzel\kmameh\SharedServices\bin\Debug\netstandard2.1\Core.dll
+C:\Users\izzel\kmameh\SharedServices\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\izzel\kmameh\SharedServices\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\izzel\kmameh\SharedServices\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\izzel\kmameh\SharedServices\obj\Debug\netstandard2.1\SharedServices.csprojAssemblyReference.cache
+C:\Users\izzel\kmameh\SharedServices\obj\Debug\netstandard2.1\SharedServices.AssemblyInfoInputs.cache
+C:\Users\izzel\kmameh\SharedServices\obj\Debug\netstandard2.1\SharedServices.AssemblyInfo.cs
+C:\Users\izzel\kmameh\SharedServices\obj\Debug\netstandard2.1\SharedServices.csproj.CoreCompileInputs.cache
+C:\Users\izzel\kmameh\SharedServices\obj\Debug\netstandard2.1\SharedServices.csproj.CopyComplete
+C:\Users\izzel\kmameh\SharedServices\obj\Debug\netstandard2.1\SharedServices.dll
+C:\Users\izzel\kmameh\SharedServices\obj\Debug\netstandard2.1\SharedServices.pdb
